@@ -1,0 +1,25 @@
+.container {
+	/* width: 100%; */
+    /* padding-right: var(--bs-gutter-x,.75rem); */
+    /* padding-left: var(--bs-gutter-x,.75rem); */
+	/* background-color: antiquewhite; */
+}
+
+
+body, html {
+	background: linear-gradient(#f9f9f9,#f0e1d4) no-repeat center center fixed;
+}
+
+.rounded-circle {
+	margin: 20px;
+}
+
+.card:hover {
+	background: rgb(224, 224, 224);
+	transition: all 0.5s;
+}
+
+a, a:hover {
+	color: #212529;
+	text-decoration: none;
+}

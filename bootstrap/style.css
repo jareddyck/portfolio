@@ -1,0 +1,27 @@
+.form-control, .form-select, input {
+	border-radius: 0rem;
+}
+
+h1 {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+td, th {
+	padding: 0rem 0rem 0rem 1rem !important;
+}
+
+th {
+	padding: 0rem 0rem 0rem 1rem !important;
+}
+
+td .form-control {
+	background: none !important;
+	border: none !important;
+	padding-top: 0.5rem !important;
+	padding-bottom: 0.5rem !important;
+}
+
+td:last-child, th:last-child {
+	padding-right: 1rem !important;
+}
